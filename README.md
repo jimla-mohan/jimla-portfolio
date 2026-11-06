@@ -53,7 +53,7 @@ A lot of my work sits at the handoff point between systems — an issue tracker 
 - Built scalable APIs and integrated third-party services
 - Collaborated with cross-functional teams for feature development and bug fixes
 
-**Intern** — Icanio Technologies, Nazareth, India *(Jun 2024 – Dec 2024)*
+**Trainee** — Icanio Technologies, Nazareth, India *(Jun 2024 – Dec 2024)*
 - Developed backend services using Java and Python for document risk detection
 - Delivered modules within a six-month internship, contributing to overall project success
 
@@ -73,8 +73,7 @@ A lot of my work sits at the handoff point between systems — an issue tracker 
 | **RAISON — Contract Risk Detection** | Sep 2025 – Mar 2026 | Java, Python, PostgreSQL |
 | **Canny Edge Detection Analysis** *(academic)* | Jan 2024 – May 2024 | Python, Matplotlib, OpenCV |
 
-📄 Full write-ups for each project are on my [portfolio site](#).
-
+📄 Full write-ups for each project are on my [portfolio site](https://jimla-mohan.github.io/jimla-portfolio).
 ---
 
 ### 🎓 Certifications
